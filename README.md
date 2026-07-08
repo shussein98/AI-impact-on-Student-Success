@@ -13,7 +13,7 @@ Moving forward I would recommend that institutions look to implement tools that 
 <img width="764" height="485" alt="Screen Shot 2026-07-07 at 1 27 09 PM" src="https://github.com/user-attachments/assets/cb20b4b3-ad10-4a05-9c49-c73944595bfb" />
 
 The classification of skill level (beginner, intermediate, and advanced) was a self-assessed proficiency in crafting effective prompts. In regards to this measure students that self identified as advanced had an average weekly usage of 8.7 hours, intermediate with 8.4, and beginner 8.3. 
-The breakdown of the students surveyed is displayed above with most respondents self-identifying as being at an intermediate level of prompt creation.
+The breakdown of the students surveyed is displayed above with most respondents self-identifying as being at a beginner level of prompt creation.
 <img width="920" height="489" alt="Screen Shot 2026-07-07 at 1 28 48 PM" src="https://github.com/user-attachments/assets/3fc3a1fd-7740-428c-96e5-038cc5d455d1" />
 The two  graphics display that the students that on average scored the highest on the post-semester test that measured skill retention and the students with the largest increase in grade point average (GPA) on average were students that self described as being at an advanced level of prompt generating. As we saw from the above visualizations, these students also on average used AI tools the most.
 <img width="920" height="489" alt="Screen Shot 2026-07-07 at 1 30 25 PM" src="https://github.com/user-attachments/assets/9afdbaec-6f77-4aec-a4cf-3d6bb2ac4bb7" />
